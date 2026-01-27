@@ -2,7 +2,7 @@
 
 This repository documents my **6–8 month full-stack software development journey** as part of the **ChaiCode Cohort 2026** mentorship program.
 
-The goal of this repository is to **track learning progress, assignments, blogs, and projects** in a structured and transparent way — from fundamentals to production-grade applications.
+The goal of this repository is to **track learning progress, assignments, blogs, and projects** in a structured and transparent way from fundamentals to production grade applications.
 
 ---
 
@@ -18,5 +18,4 @@ This repository reflects **learning in progress**, not just finished work.
 
 ---
 
-##  Repository Structure
 
